@@ -1,3 +1,4 @@
 [build]
-  publish = "_site"
+  publish = "public"
   command = "npm run build"
+  command = "npm run start"
